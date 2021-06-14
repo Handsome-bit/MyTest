@@ -1,0 +1,13 @@
+﻿生成启动时间为 2021/5/28 21:25:14。
+     1>项目“F:\CODE-VS15\CODE＿CPP\openssl_test\openssl_test\openssl_test.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\VisualStudio15\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>f:\code-vs15\code＿cpp\openssl_test\openssl_test\test.cpp(19): warning C4477: 'sscanf' : format string '%02x' requires an argument of type 'unsigned int *', but variadic argument 1 has type 'int'
+     1>f:\code-vs15\code＿cpp\openssl_test\openssl_test\test.cpp(19): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+     1>已完成生成项目“F:\CODE-VS15\CODE＿CPP\openssl_test\openssl_test\openssl_test.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.17
